@@ -1,0 +1,3 @@
+<h1>
+    POLÍTICA DE PRIVACIDADE
+</h1>
